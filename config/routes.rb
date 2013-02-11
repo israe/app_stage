@@ -1,6 +1,6 @@
 AppStage::Application.routes.draw do
   get "pages/homes"
-
+  get "pages/admin"
   get "pages/authentification"
 
   # The priority is based upon order of creation:
